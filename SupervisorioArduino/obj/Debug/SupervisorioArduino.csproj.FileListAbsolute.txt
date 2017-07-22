@@ -1,0 +1,9 @@
+C:\Projeto_c#\SupervisorioArduino\SupervisorioArduino\bin\Debug\SupervisorioArduino.exe.config
+C:\Projeto_c#\SupervisorioArduino\SupervisorioArduino\bin\Debug\SupervisorioArduino.exe
+C:\Projeto_c#\SupervisorioArduino\SupervisorioArduino\bin\Debug\SupervisorioArduino.pdb
+C:\Projeto_c#\SupervisorioArduino\SupervisorioArduino\obj\Debug\SupervisorioArduino.csprojResolveAssemblyReference.cache
+C:\Projeto_c#\SupervisorioArduino\SupervisorioArduino\obj\Debug\SupervisorioArduino.Form1.resources
+C:\Projeto_c#\SupervisorioArduino\SupervisorioArduino\obj\Debug\SupervisorioArduino.Properties.Resources.resources
+C:\Projeto_c#\SupervisorioArduino\SupervisorioArduino\obj\Debug\SupervisorioArduino.csproj.GenerateResource.Cache
+C:\Projeto_c#\SupervisorioArduino\SupervisorioArduino\obj\Debug\SupervisorioArduino.exe
+C:\Projeto_c#\SupervisorioArduino\SupervisorioArduino\obj\Debug\SupervisorioArduino.pdb
